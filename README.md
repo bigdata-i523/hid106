@@ -9,9 +9,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 106
+    name: Qiaoyi Liu
+    url: https://github.com/bigdata-i523/hid106
 ```
 
 # Paper 1
@@ -19,11 +19,9 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Qiaoyi Liu
    hid:
-   - 000
-   - 001
+   - 106
    title: This is my paper about xyz
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
@@ -34,9 +32,9 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Qiaoyi Liu
    hid:
-   - 000
+   - 106
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
@@ -52,9 +50,9 @@ paper2:
    type: project
    type: report
    author: 
-   - Gregor von Laszewski
+   - Qiaoyi Liu
    hid:
-   - 000
+   - 106
    title: Benchmarking a BigData Docker deployment
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
