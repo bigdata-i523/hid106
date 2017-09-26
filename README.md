@@ -22,11 +22,12 @@ paper1:
    - Qiaoyi Liu
    hid:
    - 106
-   title: This is my paper about xyz
-   abstract: This paper showcases tis and that and the other
+   title: Big Data Analytics in Groceries Stores
+   abstract: This paper helps us understanding how big data is working 
+   in Groceries store and how Big Data helping their business
    url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
    status: In progress
-   type:
+   type:Latex
 ```
    
 # Paper 2
