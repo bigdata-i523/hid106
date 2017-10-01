@@ -24,6 +24,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
    status: In progress
    type: latex
+   chapter: Buisiness
 ```
    
 # Paper 2
@@ -39,7 +40,7 @@ paper2:
    url: https://github.com/bigdata-i523/hid106/paper2/paper2.pdf
    status: None
    type: latex
-  
+   chapter: TBD
 ```
 
 # Project 
