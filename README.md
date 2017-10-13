@@ -22,7 +22,7 @@ paper1:
        This paper helps us understanding how big data is working 
        in Groceries store and how Big Data helping their business
    url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
-   status: In progress
+   status: 100%
    type: latex
    chapter: Business
 ```
