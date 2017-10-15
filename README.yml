@@ -1,0 +1,29 @@
+---
+owner:
+    hid: 106
+    name: Qiaoyi Liu
+    url: https://github.com/bigdata-i523/hid106
+paper1:
+    abstract: 'This paper helps us understanding how big data is working  in Groceries
+        store and how Big Data helping their business
+
+        '
+    author:
+        - Qiaoyi Liu
+    chapter: Business
+    hid:
+        - 106
+    status: 100%
+    title: Big Data Analytics in Groceries Stores
+    type: latex
+    url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Qiaoyi Liu
+    hid:
+        - 106
+    status: None
+    title: Benchmarking a BigData Docker deployment
+    type: null
+    url: https://github.com/bigdata-i523/hid106/project/report.pdf
