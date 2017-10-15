@@ -4,10 +4,9 @@ owner:
     name: Qiaoyi Liu
     url: https://github.com/bigdata-i523/hid106
 paper1:
-    abstract: 'This paper helps us understanding how big data is working  in Groceries
+    abstract: >
+        This paper helps us understanding how big data is working  in Groceries
         store and how Big Data helping their business
-
-        '
     author:
         - Qiaoyi Liu
     chapter: Business
