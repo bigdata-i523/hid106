@@ -12,7 +12,7 @@ paper1:
     chapter: Business
     hid:
         - 106
-    status: 100%
+    status: 100% Oct 27th
     title: Big Data Analytics in Groceries Stores
     type: latex
     url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
@@ -22,7 +22,25 @@ paper2:
         - Qiaoyi Liu
     hid:
         - 106
-    status: None
+    status: in progress
     title: Benchmarking a BigData Docker deployment
     type: null
+    url: https://github.com/bigdata-i523/hid106/project/report.pdf
+project:
+    abstract: >
+        Recently, people tend to use auto play-next while using a cloud-based music app. 
+        In this case, content recommendation is at the heart of most subscription-based 
+        media stream platforms. A good recommendation system based on a huge number of 
+        historical records and metadata can vastly enhance user experience and increase
+        user engagement. In our project, we would build machine learning models to predict 
+        what songs are going to be listened next week. The training data would be a copy
+        of user listening history during a month period and predict what songs a set of 
+        predetermined users would listen to during the next week. 
+    author:
+        - Shiqi Shen & Qiaoyi Liu
+    hid:
+        - 109 & 106
+    status: in progress 
+    title: A Music Recommendation System
+    type: latex
     url: https://github.com/bigdata-i523/hid106/project/report.pdf
