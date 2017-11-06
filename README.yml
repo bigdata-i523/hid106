@@ -5,20 +5,21 @@ owner:
     url: https://github.com/bigdata-i523/hid106
 paper1:
     abstract: >
-        This paper helps us understanding how big data is working  in Groceries
-        store and how Big Data helping their business
+        This paper helps us understanding how big data is working
+        in Groceries store and how Big Data helping their business
     author:
         - Qiaoyi Liu
     chapter: Business
     hid:
         - 106
-    status: Oct 27 17 100% 
+    status: Oct 27 17 100%
     title: Big Data Analytics in Groceries Stores
     url: https://github.com/bigdata-i523/hid106/paper1/paper1.pdf
 paper2:
     review: Nov 6 2017
     abstract: >
-    This paper is to analysis how people using big data to detect Insurance Frad in real life.
+        This paper is to analysis how people using big data
+        to detect Insurance Frad in real life.
     author:
         - Qiaoyi Liu
     hid:
@@ -28,21 +29,24 @@ paper2:
     url: https://github.com/bigdata-i523/hid106/paper2/report.pdf
 project:
     abstract: >
-        Recently, people tend to use auto play-next while using a cloud-based music app. 
-        In this case, content recommendation is at the heart of most subscription-based 
-        media stream platforms. A good recommendation system based on a huge number of 
-        historical records and metadata can vastly enhance user experience and increase
-        user engagement. In our project, we would build machine learning models to predict 
-        what songs are going to be listened next week. The training data would be a copy
-        of user listening history during a month period and predict what songs a set of 
-        predetermined users would listen to during the next week. 
+        Recently, people tend to use auto play-next while using a
+        cloud-based music app.  In this case, content recommendation
+        is at the heart of most subscription-based media stream
+        platforms. A good recommendation system based on a huge number
+        of historical records and metadata can vastly enhance user
+        experience and increase user engagement. In our project, we
+        would build machine learning models to predict what songs are
+        going to be listened next week. The training data would be a
+        copy of user listening history during a month period and
+        predict what songs a set of predetermined users would listen
+        to during the next week.
     author:
         - Shiqi Shen
         - Qiaoyi Liu
     hid:
         - 109
         - 106
-    status: in progress 
+    status: 0%
     title: A Music Recommendation System
     type: project
     url: https://github.com/bigdata-i523/hid106/project/report.pdf
