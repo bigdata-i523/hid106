@@ -29,6 +29,7 @@ paper2:
     url: https://github.com/bigdata-i523/hid106/paper2/report.pdf
     chapter: Business
 project:
+    duplicate: True
     abstract: >
         Recently, people tend to use auto play-next while using a
         cloud-based music app.  In this case, content recommendation
